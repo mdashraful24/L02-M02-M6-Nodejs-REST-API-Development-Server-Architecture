@@ -13,8 +13,8 @@
         "name": "Wireless Headphones",
         "category": "Audio",
         "brand": "Sony",
-        "price": 199,
-        "stock": 30,
+        "price": 499,
+        "stock": 10,
         "rating": 4.7
     },
     {
@@ -45,9 +45,10 @@
         "rating": 4.8
     },
     {
-        "id": 1778500735493,
-        "name": "Product test - 1",
-        "description": "Product description - 1",
-        "price": 3000
+        "id": 1778512408465,
+        "name": "4K Monitor",
+        "category": "Display",
+        "brand": "Dell",
+        "price": 450
     }
 ]

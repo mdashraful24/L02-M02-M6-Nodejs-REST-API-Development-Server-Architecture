@@ -14,7 +14,7 @@ export const readProduct = () => {
 };
 
 export const insertProduct = (playLoad: any) => {
-    console.log(playLoad);
+    // console.log(playLoad);
 
     fs.writeFileSync(filePath, JSON.stringify(playLoad));
 }
