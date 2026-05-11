@@ -43,5 +43,17 @@
         "price": 450,
         "stock": 10,
         "rating": 4.8
+    },
+    {
+        "id": 1778500735493,
+        "name": "Product test - 1",
+        "description": "Product description - 1",
+        "price": 6000
+    },
+    {
+        "id": 1778500876425,
+        "name": "Product test - 2",
+        "description": "Product description - 2",
+        "price": 9000
     }
 ]

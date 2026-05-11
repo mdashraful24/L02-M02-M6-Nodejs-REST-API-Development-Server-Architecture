@@ -12,3 +12,9 @@ export const readProduct = () => {
     // console.log(products);
     return JSON.parse(products);
 };
+
+export const insertProduct = (playLoad: any) => {
+    console.log(playLoad);
+
+    fs.writeFileSync(filePath, JSON.stringify(playLoad));
+}
