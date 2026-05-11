@@ -1,1 +1,53 @@
-[{"id":1,"name":"Gaming Laptop","category":"Electronics","brand":"ASUS","price":1200,"stock":15,"rating":4.5},{"id":2,"name":"Wireless Headphones","category":"Audio","brand":"Sony","price":199,"stock":30,"rating":4.7},{"id":3,"name":"Smartphone","category":"Mobile","brand":"Samsung","price":899,"stock":20,"rating":4.6},{"id":4,"name":"Mechanical Keyboard","category":"Accessories","brand":"Logitech","price":150,"stock":25,"rating":4.4},{"id":5,"name":"4K Monitor","category":"Display","brand":"Dell","price":450,"stock":10,"rating":4.8},{"id":1778500735493,"name":"Product test - 1","description":"Product description - 1","price":3000},{"id":1778500876425,"name":"Product test - 2","description":"Product description - 2","price":5000}]
+[
+    {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "category": "Audio",
+        "brand": "Sony",
+        "price": 199,
+        "stock": 30,
+        "rating": 4.7
+    },
+    {
+        "id": 2,
+        "name": "Wireless Headphones",
+        "category": "Audio",
+        "brand": "Sony",
+        "price": 199,
+        "stock": 30,
+        "rating": 4.7
+    },
+    {
+        "id": 3,
+        "name": "Smartphone",
+        "category": "Mobile",
+        "brand": "Samsung",
+        "price": 899,
+        "stock": 20,
+        "rating": 4.6
+    },
+    {
+        "id": 4,
+        "name": "Mechanical Keyboard",
+        "category": "Accessories",
+        "brand": "Logitech",
+        "price": 150,
+        "stock": 25,
+        "rating": 4.4
+    },
+    {
+        "id": 5,
+        "name": "4K Monitor",
+        "category": "Display",
+        "brand": "Dell",
+        "price": 450,
+        "stock": 10,
+        "rating": 4.8
+    },
+    {
+        "id": 1778500735493,
+        "name": "Product test - 1",
+        "description": "Product description - 1",
+        "price": 3000
+    }
+]
